@@ -4,5 +4,5 @@ modal-id: 5
 date: 2022-11-05
 img: day5.png
 alt: image-alt
-description: Map of Ukraine highlighting the Dnipro River, and the landcover relating to forestry and farmland.
+description: Day 5 - Ukraine. Map of Ukraine highlighting the Dnipro River, and the landcover relating to forestry and farmland.
 ---
