@@ -1,0 +1,8 @@
+---
+layout: default
+modal-id: 6
+date: 2022-11-06
+img: day6.png
+alt: image-alt
+description: Map of the UK highlighting coverage data of cellular signal strength collected by crowd-sourced application netBravo, with results returned on a grid referenced system.
+---
