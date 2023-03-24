@@ -1,0 +1,8 @@
+---
+layout: default
+modal-id: 3
+date: 2022-11-03
+img: day3.png
+alt: image-alt
+description: Day 3 - Polygons. Map of London based on postcode district.
+---
