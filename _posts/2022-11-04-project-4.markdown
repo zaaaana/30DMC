@@ -1,7 +1,7 @@
 ---
 layout: default
 modal-id: 4
-date: 2014-07-15
+date: 2022-11-04
 img: day4.png
 description: Tropical Important Plant Areas (TIPA) within the British Virgin Islands, as mapped out by Kew Gardens.
 ---
