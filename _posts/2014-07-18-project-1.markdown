@@ -4,5 +4,5 @@ modal-id: 1
 date: 2022-11-01
 img: day1.png
 alt: image-alt
-description: *Day 1 - points!* A quick map highlighting the Waste Electronic and Electrical Equipment (WEEE) recycling banks within the Westminster borough of London. Recycling bank data is taken from the UK IT service website, basemap taken from Maptiler (with OSM contribution)
+description: Day 1 - points! A quick map highlighting the Waste Electronic and Electrical Equipment (WEEE) recycling banks within the Westminster borough of London. Recycling bank data is taken from the UK IT service website, basemap taken from Maptiler (with OSM contribution)
 ---
