@@ -1,0 +1,8 @@
+---
+layout: default
+modal-id: 11
+date: 2022-11-11
+img: day11.png
+alt: image-alt
+description: Day 11 - Red. Geographic range of the Red Panda across Asia (map recreated from Beck Osterland).
+---
