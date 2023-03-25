@@ -1,0 +1,8 @@
+---
+layout: default
+modal-id: 10
+date: 2022-11-10
+img: day10.png
+alt: image-alt
+description: Day 10 - A bad map. Think this one is pretty self-explanatory!
+---
