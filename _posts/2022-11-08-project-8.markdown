@@ -1,7 +1,7 @@
 ---
 layout: default
-modal-id: 7
-date: 2022-11-07
+modal-id: 8
+date: 2022-11-08
 img: day8.png
 alt: image-alt
 description: Day 8 - OpenStreetMap. Map of Rotterdam with the Schieplein Roundabout as the focal point. Made in Python with the prettymaps package.
