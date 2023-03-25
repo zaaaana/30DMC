@@ -1,0 +1,8 @@
+---
+layout: default
+modal-id: 9
+date: 2022-11-09
+img: day9.png
+alt: image-alt
+description: Day 9 - Space. Map of c̶̶̶l̶̶̶o̶̶̶s̶̶̶e̶̶̶ ̶̶̶e̶̶̶n̶̶̶c̶̶̶o̶̶̶u̶̶̶n̶̶̶t̶̶̶e̶̶̶r̶̶̶s̶̶̶ ̶̶̶o̶̶̶f̶̶̶ ̶̶̶t̶̶̶h̶̶̶e̶̶̶ ̶̶̶3̶̶̶r̶̶̶d̶̶̶ ̶̶̶k̶̶̶i̶̶̶n̶̶̶d̶̶̶  UFO sightings across the contiguous US in 2016, inclusive of a chart presenting daily recorded values..
+---
