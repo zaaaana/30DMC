@@ -1,0 +1,8 @@
+---
+layout: default
+modal-id: 16
+date: 2022-11-16
+img: day16.png
+alt: image-alt
+description: Day 16 - Minimalist. Map of the NYC Metro Lines.
+---
