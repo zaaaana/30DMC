@@ -1,0 +1,8 @@
+---
+layout: default
+modal-id: 15
+date: 2022-11-15
+img: day15.png
+alt: image-alt
+description: Day 15 - Food/Drink. Flow map of major importers of mangoes from India in 2021-2022! (excl. US/Canada)
+---
