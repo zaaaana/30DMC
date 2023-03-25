@@ -1,0 +1,8 @@
+---
+layout: default
+modal-id: 14
+date: 2022-11-14
+img: day14.png
+alt: image-alt
+description: Day 14 - Hexagons. Santander cycle stations across London grouped based on number of docking points.
+---
